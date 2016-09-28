@@ -8,6 +8,16 @@ You are welcome to use it as a reference and I would appreicate any comments.
 
 For Non-GATECH students, you can access the lectures from Udacity. 
 
+# Course projects
+
+Project 1 Implement multi-threaded get URL web client and server.
+
+Project 2 Experiment and simulation on performace of multi-threading. Thread concurrency overhead VS Thread efficiency.
+
+Project 3 Implement a multi-threaded getfile proxy that uses shared memory segment as inter process communication.
+
+Project 4 Implement a RPC program that compresses the image.
+
 
 # Finals reading list
 
